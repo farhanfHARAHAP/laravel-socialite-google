@@ -3,7 +3,7 @@
 ## Information
 Containing: Laravel, Socialite, Breeze and Reference from Santrikoding.com
 
-Implemented app from https://santrikoding.com/tutorial-laravel-10-1-fitur-baru-di-laravel-10 series.
+Implemented app from [https://santrikoding.com/tutorial-laravel-10-1-fitur-baru-di-laravel-10](https://santrikoding.com/login-dengan-google-github-di-laravel-menggunakan-socialite-1-installasi-persiapan) series by Syahrizal AS.
 
 ## How to Use (Installation)
 1. Pull this git, or download manually.
